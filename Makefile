@@ -2,7 +2,7 @@
 IVERILOG = iverilog
 VVP = vvp
 GTKWAVE = gtkwave
-DUT = simulacao.v
+DUT = MIPS_Single_Cycle.v ALU.v Registradores.v ControlUnit.v ALUControl.v simulacao.v
 EXEC = sim.vvp
 VCD = typeR.vcd
 
