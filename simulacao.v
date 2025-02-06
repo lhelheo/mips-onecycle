@@ -1,4 +1,4 @@
-`timescale 1ns
+`timescale 1ns/1ps
 `include "ALU.v"
 `include "Registradores.v"
 `include "ControlUnit.v"
